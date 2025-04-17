@@ -71,6 +71,10 @@ Model 1: Returns a single prediction (Drunk or Sober) for a full video.
 Model 2: Averages predictions across frames for faster inference.
 
 📈 Metrics Used
+![image](https://github.com/user-attachments/assets/3e42f5d3-6d7b-4010-be97-ba93c3e767d8)
+![image](https://github.com/user-attachments/assets/a883b329-211f-42ce-87cc-878d8cc5063d)
+
+
 Accuracy
 
 Precision
